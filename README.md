@@ -4,10 +4,10 @@
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[🌟 1](/2024//day1/src/main.rs)|[🌟 2](/2024//day2/src/main.rs)|[🌟 3](/2024/day3/src/main.rs)|[🌟 4](/2024/day4/src/main.rs)|[🌟 5](/2024/day5/src/main.rs)|🎄 6|🎄 7|
-|🎄 8|🎄 9|🎄 10|🎄 11|🎄 12|🎄 13|🎄 14|
+|[🌟 1](/2024//day1/src/main.rs)|[🌟 2](/2024//day2/src/main.rs)|[🌟 3](/2024/day3/src/main.rs)|[🌟 4](/2024/day4/src/main.rs)|[🌟 5](/2024/day5/src/main.rs)|[🌟 6](/2024/day6/src/main.rs)|[🌟 7](/2024/day7/src/main.rs)|
+|[🌟 8](/2024/day8/src/main.rs)|🎄 9|🎄 10|🎄 11|🎄 12|🎄 13|🎄 14|
 |🎄 15|🎄 16|🎄 17|🎄 18|🎄 19|🎄 20|🎄 21|
-|🎄 22|🎄 23|🎄 24|🎄 25|🎄 26|🎄 27|🎄 28|
+|🎄 22|[🌟 23](/2024/day23/src/main.rs)|🎄 24|🎄 25|🎄 26|🎄 27|🎄 28|
 |🎄 29|🎄 30|🎄 31| 1| 2| 3| 4|
 
 
@@ -17,9 +17,6 @@
 Apparantly, I'm mastering the art of procrastination (´-ω-`*)
 
 <!-- 
-[🌟 6](/2024/day6/src/main.rs)
-[🌟 7](/2024/day7/src/main.rs)
-[🌟 8](/2024/day8/src/main.rs)
 [🌟 9](/2024/day9/src/main.rs)
 [🌟 10](/2024/day10/src/main.rs)
 [🌟 11](/2024/day11/src/main.rs)
@@ -34,7 +31,7 @@ Apparantly, I'm mastering the art of procrastination (´-ω-`*)
 [🌟 20](/2024/day20/src/main.rs)
 [🌟 21](/2024/day21/src/main.rs)
 [🌟 22](/2024/day22/src/main.rs)
-[🌟 23](/2024/day23/src/main.rs)
+
 [🌟 24](/2024/day24/src/main.rs)
 [🌟 25](/2024/day25/src/main.rs)
 [🌟 26](/2024/day26/src/main.rs)
