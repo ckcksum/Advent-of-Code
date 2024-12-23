@@ -3,6 +3,7 @@ use std::collections::HashMap;
 fn main() {
     // Read input
     let contents = include_str!("../input/input.txt");
+    println!("\nMaster, input read meow ^. .^\n");
     // mutable vector to store values
     let mut left: Vec<i32> = Vec::new();
     let mut right: Vec<i32> = Vec::new();

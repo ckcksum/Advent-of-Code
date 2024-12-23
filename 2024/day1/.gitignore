@@ -5,4 +5,5 @@ Cargo.lock
 
 *.pdb
 
-src/tmp.rs
+
+tmp/
