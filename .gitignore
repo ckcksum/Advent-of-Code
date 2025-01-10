@@ -5,7 +5,6 @@ Cargo.lock
 
 *.pdb
 
-
 tmp/
 
 *.bat
